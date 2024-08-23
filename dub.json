@@ -1,0 +1,11 @@
+{
+    "name": "toy_compiler",
+    "description": "A simple arithmetic expression compiler in D",
+    "authors": [
+        "Your Name"
+    ],
+    "license": "proprietary",
+    "dependencies": {
+        "pegged": "~>0.4.5"
+    }
+}
